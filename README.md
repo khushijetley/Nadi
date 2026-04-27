@@ -1,7 +1,7 @@
 # Nadi: The Body Knows
 ### Live Biosensor Installation · Probabilistic Raga Agent · Real-Time Biofeedback System
 
-![Nadi installation view](photos/installation.jpg)
+![Nadi installation view](installation.jpg)
 *Installation view, Sympoietics, York University, 2026*
 
 ---
